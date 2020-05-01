@@ -4,4 +4,4 @@
 #### Preview
 * GUI (Created with Bootstrap)
 
-![Preview](https://i.imgur.com/YCz79hQ.png)
+![Preview](https://i.imgur.com/rgJ5Bn2.png)
